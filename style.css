@@ -16,15 +16,6 @@
     src: url("fonts/futura/Futura\ Heavy\ font.ttf");    
 }
 
-h2 {
-    color: rgb(219, 162, 163);
-    text-shadow: 1px 1px 2px rgb(148, 110, 111);
-    font-size: 3.5em;
-    font-family: "Seventies";
-    font-weight: 550;
-    text-indent: 20px;
-}
-
 a {
     text-decoration: none;
 }
