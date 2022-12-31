@@ -249,9 +249,9 @@ span {
     font-family: 'Josefin Sans', sans-serif;
     font-size: 18px;
     margin-top: 5em;
-    margin-left: 2em;
+    margin-left: 2%;
     margin-bottom: 2em;
-    margin-right: 2em;
+    margin-right: 2%
 }
 
 .text3 img {
@@ -481,7 +481,7 @@ p a {
     }
 
     #trailler {
-    width: 255px;
+    max-width: 231px;
     }
 }
 
@@ -515,7 +515,7 @@ p a {
     }
 
     .text2 img {
-    max-width: 220px;
+     max-width: 170px;
     }
 }
 
